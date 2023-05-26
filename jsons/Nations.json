@@ -1,1 +1,59 @@
+{
 
+	"name": "Anamia",	"leaderName": "Elder Clive",
+
+	"adjective": ["Civilian"],
+
+	"cityStateType": "Type",
+
+	"outerColor": [3,2,1],
+
+	"innerColor": [1,2,3],
+
+	"startBias": ["Grassland"],
+
+	"preferredVictoryType": "Religion",
+
+	"favoredReligion": "Judism",
+
+	"startIntroPart1": "Welcome to the tribe",
+
+	"startIntroPart2": "can you create a civilisation that will stand the test of time?",
+
+	"introduction": "Hello, welcome fo our tribe",
+
+	"declaringWar": "You evil",
+
+	"attacked": "what, why??",
+
+	"afterPeace": "Nice",
+
+	"defeated": "aw, i hated the cold anyway...",
+
+	"neutralHello": "Greetings",
+
+	"hateHello": "hmm?",
+
+	"tradeRequest": "Got anything?",
+
+	"neutralLetsHearIt": "  ",
+
+	"hateLetsHearIt": "  ",
+
+	"neutralNo": "  ",
+
+	"neutralYes": "  ",
+
+	"hateNo": "  ",
+
+	"hateYes": "  ",
+
+		
+
+	"uniqueName": "Tribe Thrive",
+
+	"uniques": ["Nation Unique"],
+
+	"cities": ["Bellow","Sumil","Ababa","Reek"]
+
+	},
